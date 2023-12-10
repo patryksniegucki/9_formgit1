@@ -1,6 +1,6 @@
-/* .visibility {
-  display: ;
-} */
+.visibility {
+  display: none;
+}
 
 p {
   background-color: yellow;
